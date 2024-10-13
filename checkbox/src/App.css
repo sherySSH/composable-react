@@ -1,0 +1,10 @@
+.input-box-checkbox {
+    padding: 1rem;
+    margin: 1rem;
+    border: 1px solid black;
+    border-radius: 2rem;
+  }
+  
+  .input-checkbox {
+    margin: 1rem;
+  }

@@ -1,0 +1,27 @@
+.input-box-checkbox {
+  padding: 1rem;
+  margin: 1rem;
+  border: 1px solid black;
+  border-radius: 2rem;
+}
+
+.input-box-row {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+
+.input-checkbox-div {
+  margin: 1rem;
+  display: flex;
+  align-items: center;
+}
+
+.input-checkbox-label {
+  font-size: 1.2rem;
+}
+
+.input-checkbox-field {
+  width: 1.2rem;
+  height: 1.2rem;
+}
