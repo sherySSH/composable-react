@@ -1,6 +1,6 @@
 # composable-react
 
-Open the folder of the component that you want to test, for example, checkbox. Go inside the ```src``` folder and copy following files:
+Open the folder of the component that you want to test, for example, ```checkbox```. Go inside the ```src``` folder and copy following files:
   1. ```App.css```
   2. ```App.jsx```
 
